@@ -5,3 +5,6 @@ esse arquivo contém comandos secundários do git bash
 
 # Comandos genéricos
 - comandos estranhos
+
+# Outros comandos
+- qualquer coisa
