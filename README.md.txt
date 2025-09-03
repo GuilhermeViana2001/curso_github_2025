@@ -10,3 +10,5 @@ Pessoas participantes:
 
 1. Guilherme Viana
 2. Téo Calvo
+
+Se liga no nosso canal no Youtube. No site e agenda você fica por dentro de tudo que vai rolar em 2025.
